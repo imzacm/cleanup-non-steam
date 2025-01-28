@@ -1,0 +1,10 @@
+[package]
+name = "cleanup-non-steam"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0"
+steamlocate = "2.0.1"
+steam_shortcuts_util = "1.1.8"
